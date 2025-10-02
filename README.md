@@ -8,4 +8,4 @@ It is structured as a reproducible pipeline so anyone can fetch raw data, transf
 ![Logo](https://postimg.cc/w7NpwtfD][img]https://i.postimg.cc/w7NpwtfD/Overview1.png[/img][/url])
 ![Logo](https://postimg.cc/G9VRPPQL][img]https://i.postimg.cc/G9VRPPQL/Points-table1.png)
 ![Logo](https://postimg.cc/xcm26kxM][img]https://i.postimg.cc/xcm26kxM/Squads1.png[/img][/url])
-![Logo]()
+![Logo]([url=https://postimg.cc/xcm26kxM][img]https://i.postimg.cc/xcm26kxM/Squads1.png[/img][/url])
